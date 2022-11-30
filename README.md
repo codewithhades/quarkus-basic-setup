@@ -1,4 +1,4 @@
-# Quarkus :pencil2: REST API
+# Quarkus :wrench: Basic setup
 
 ## About Quarkus and this example
 
