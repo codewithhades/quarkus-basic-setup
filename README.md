@@ -11,7 +11,7 @@ In this example you can check how to simply build and run a Quarkus application 
 ## Technical requirements
 
 - [Maven](https://maven.apache.org/), for project management
-- A [JDK](https://www.oracle.com/java/technologies/downloads). This is example is built on version 18
+- A [JDK](https://www.oracle.com/java/technologies/downloads). This is example is built on version 19
 
 ## How to set up the project
 
